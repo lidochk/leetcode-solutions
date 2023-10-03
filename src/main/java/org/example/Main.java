@@ -6,6 +6,7 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
+//task 27 RemoveElement https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150
 //task 88 MergeArray https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150
 //task 1512 GoodPair https://leetcode.com/problems/number-of-good-pairs/?envType=daily-question&envId=2023-10-03
 // task 557 ReverseWords https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/?envType=daily-question&envId=2023-10-01
